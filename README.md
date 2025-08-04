@@ -20,7 +20,7 @@ Este repositório é uma coletânea de materiais de estudo, exercícios, impleme
 
 ## 📝 Artigo Científico: ISCAIE 2025
 
-**Título:** Comparative Analysis of Fuzzy Logic and Artificial Neural Networks for Variable Prediction
+**Título:** Mountain_Car__A_study_on_the_cooperative_relationship_between_intelligent_control_systems
 
 Este artigo apresenta uma investigação detalhada sobre a performance de modelos baseados em Lógica Fuzzy e Redes Neurais para a predição de variáveis. Os resultados e a discussão completa estão disponíveis neste repositório.
 
